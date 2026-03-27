@@ -25,3 +25,4 @@ This is a beginner Python project that takes student name and marks as input and
 - Basic project structuring
 
 ## ▶️ Sample Output
+![Output](output.png)
